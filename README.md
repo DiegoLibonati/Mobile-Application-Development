@@ -37,7 +37,7 @@ I made a website about mobile application development, but basically what I did 
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Mobile%20application%20development%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Mobile%20Application%20Development%20Page`
 
 ## Video
 
