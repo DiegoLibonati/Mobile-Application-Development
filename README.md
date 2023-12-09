@@ -23,21 +23,9 @@ I made a website about mobile application development, but basically what I did 
 2. Javascript
 3. HTML5
 
-## Galery
-
-![Dev-mobile](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/devmobile-0.jpg)
-
-![Dev-mobile](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/devmobile-1.jpg)
-
-![Dev-mobile](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/devmobile-2.jpg)
-
-![Dev-mobile](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/devmobile-3.jpg)
-
-![Dev-mobile](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/devmobile-4.jpg)
-
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Mobile%20Application%20Development%20Page`
+[`https://www.diegolibonati.com.ar/#/project/24`](https://www.diegolibonati.com.ar/#/project/24)
 
 ## Video
 
