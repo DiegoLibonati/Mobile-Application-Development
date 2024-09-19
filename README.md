@@ -1,4 +1,4 @@
-# Mobile-Application-Development-Page
+# Mobile Application Development
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ I made a website about mobile application development, but basically what I did 
 
 ## Portfolio Link
 
-[`https://www.diegolibonati.com.ar/#/project/24`](https://www.diegolibonati.com.ar/#/project/24)
+[`https://www.diegolibonati.com.ar/#/project/Mobile-Application-Development`](https://www.diegolibonati.com.ar/#/project/Mobile-Application-Development)
 
 ## Video
 
